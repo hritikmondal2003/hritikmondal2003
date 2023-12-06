@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritik</h1>
-<h3 align="center"> Aspiring content creator/h3>
+<h3 align="center"> Aspiring content creator</h3>
 
 - 🌱 I’m currently learning **Game dev.**
 
