@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hritik</h1>
-<h3 align="center">A passionate Full Stack Developer,DevOps🚀</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**.
+
+- 🌱 I’m currently learning **Full Stack Development, DevOps**.
 - 📫 How to reach me: **hritikmondal2003@gmail.com**
 
 ---
