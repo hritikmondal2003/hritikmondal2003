@@ -74,7 +74,7 @@
 
 ---
 
-<h3 align="left">🎯 Goals for 2024:</h3>
+<h3 align="left">🎯 Goals :</h3>
 <p align="left">
   - Master Full Stack Development 🚀<br>
   - Contribute to Open Source 🌍<br>
