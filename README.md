@@ -67,7 +67,9 @@
 <h3 align="left">📜 Favorite Quote:</h3>
 <p align="left">
   <i>"The only way to do great work is to love what you do."</i> – Steve Jobs
+  <i>"𝒜 𝓂𝒶𝓃 𝓌𝒽𝑜 𝓌𝑜𝓊𝓁𝒹 𝓃𝑜𝓉 𝓇𝒾𝓈𝓀 𝒽𝒾𝓈 𝓁𝒾𝒻𝑒 𝒻𝑜𝓇 𝓈𝑜𝓂𝑒𝓉𝒽𝒾𝓃𝑔 𝒹𝑜𝑒𝓈 𝓃𝑜𝓉 𝒹𝑒𝓈𝑒𝓇𝓋𝑒 𝓉𝑜 𝓁𝒾𝓋𝑒."</i>
 </p>
+
 
 ---
 
