@@ -65,11 +65,12 @@
 ---
 
 <h3 align="left">📜 Favorite Quotes:</h3>  
-<p>
-  <i>𝘛𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘥𝘰 𝘣𝘦𝘵𝘵𝘦𝘳...</i><br>
-  <i>"The only way to do great work is to love what you do." – Steve Jobs</i><br>
-  <i>"𝒜 𝓂𝒶𝓃 𝓌𝒽𝑜 𝓌𝑜𝓊𝓁𝒹 𝓃𝑜𝓉 𝓇𝒾𝓈𝓀 𝒽𝒾𝓈 𝓁𝒾𝒻𝑒 𝒻𝑜𝓇 𝓈𝑜𝓂𝑒𝓉𝒽𝒾𝓃𝑔 𝒹𝑜𝑒𝓈 𝓃𝑜𝓉 𝒹𝑒𝓈𝑒𝓇𝓋𝑒 𝓉𝑜 𝓁𝒾𝓋𝑒."</i>
+<p style="font-family: cursive; font-style: italic;">
+  𝒯𝓇𝓎𝒾𝓃𝑔 𝓉𝑜 𝒹𝑜 𝒷𝑒𝓉𝓉𝑒𝓇...<br>
+  "𝒯𝒽𝑒 𝑜𝓃𝓁𝓎 𝓌𝒶𝓎 𝓉𝑜 𝒹𝑜 𝑔𝓇𝑒𝒶𝓉 𝓌𝑜𝓇𝓀 𝒾𝓈 𝓉𝑜 𝓁𝑜𝓋𝑒 𝓌𝒽𝒶𝓉 𝓎𝑜𝓊 𝒹𝑜." – 𝒮𝓉𝑒𝓋𝑒 𝒥𝑜𝒷𝓈<br>
+  "𝒜 𝓂𝒶𝓃 𝓌𝒽𝑜 𝓌𝑜𝓊𝓁𝒹 𝓃𝑜𝓉 𝓇𝒾𝓈𝓀 𝒽𝒾𝓈 𝓁𝒾𝒻𝑒 𝒻𝑜𝓇 𝓈𝑜𝓂𝑒𝓉𝒽𝒾𝓃𝑔 𝒹𝑜𝑒𝓈 𝓃𝑜𝓉 𝒹𝑒𝓈𝑒𝓇𝓋𝑒 𝓉𝑜 𝓁𝒾𝓋𝑒."
 </p>
+
 
 </p>  
 
