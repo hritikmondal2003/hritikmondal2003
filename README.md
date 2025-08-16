@@ -24,7 +24,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development** and **DevOps**  
 - 📫 Reach me at: **hritikmondal2003@gmail.com**  
-- 💡 I enjoy solving problems and building helpful tools!
+- 💡 I enjoy solving problems and building helpful tools!  
+- 🏢 Co-founder & Developer at [Innovatech Web Works](https://innovatechwebworks.vercel.app/) — crafting modern, high-performance websites and digital solutions for businesses worldwide.
 
 ---
 
