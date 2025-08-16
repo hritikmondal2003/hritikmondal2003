@@ -1,1 +1,58 @@
+name: Update README with public repos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Run update script
+        run: |
+          npm init -y
+          npm install node-fetch
+          cat << 'EOF' > update-readme.js
+          const fs = require("fs");
+          const fetch = (...args) => import("node-fetch").then(({default: fetch}) => fetch(...args));
+
+          const username = "hritikmondal2003";
+
+          async function main() {
+            const res = await fetch(\`https://api.github.com/users/\${username}/repos?per_page=100&sort=updated\`);
+            const repos = await res.json();
+
+            const publicRepos = repos.filter(r => !r.private);
+            const count = publicRepos.length;
+
+            const list = publicRepos.map(r => \`- [**\${r.name}**](\${r.html_url}) – \${r.description || "No description"}\`).join("\\n");
+
+            let readme = fs.readFileSync("README.md", "utf8");
+            readme = readme.replace(/(<!-- REPO_COUNT:START -->)(.*?)(<!-- REPO_COUNT:END -->)/s, \`<!-- REPO_COUNT:START -->\${count}<!-- REPO_COUNT:END -->\`);
+            readme = readme.replace(/(<!-- REPO_LIST:START -->)(.*?)(<!-- REPO_LIST:END -->)/s, \`<!-- REPO_LIST:START -->\\n\${list}\\n<!-- REPO_LIST:END -->\`);
+
+            fs.writeFileSync("README.md", readme);
+          }
+
+          main();
+          EOF
+
+          node update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Updated public repo list" || echo "No changes"
+          git push
 
