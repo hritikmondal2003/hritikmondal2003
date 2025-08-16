@@ -8,6 +8,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hritikmondal2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
 <br>
 
 <div align="center">
