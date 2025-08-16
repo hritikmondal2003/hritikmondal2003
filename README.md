@@ -77,4 +77,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by Hritik</p>
+<p align="center">Made with ❤️ by Hritik Mondal</p>
