@@ -78,6 +78,15 @@
 
 ---
 
+## 📦 Public Repositories (auto)
+
+**Total:** <!-- REPO_COUNT:START -->0<!-- REPO_COUNT:END -->
+
+<!-- REPO_LIST:START -->
+<!-- REPO_LIST:END -->
+
+---
+
 ### 📜 Favorite Quotes
 
 <p align="center" style="font-family: cursive; font-style: italic;">
