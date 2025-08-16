@@ -89,7 +89,6 @@
 
 ### 🎯 Goals
 
-- Master Full Stack Development 🚀  
 - Contribute to Open Source 🌍  
 - Build a personal project that helps others 💻  
 
