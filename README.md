@@ -14,144 +14,91 @@
 
 <br>
 
+<div align="center">
+  <h3>🔥 Most Used Tools & Platforms</h3>
+  <p>
+    <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" alt="n8n" /></a>
+    <a href="https://www.notion.so/" target="_blank"><img src="https://www.notion.so/front-static/logo-ios.png" width="40" height="40" alt="Notion" /></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /></a>
+  </p>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
 
-* 🌱 Currently learning **DevOps, Cloud, and Automation**
-* ⚙️ Working with **Linux, Docker, Kubernetes, CI/CD, and AWS**
-* 🤖 Building automation workflows using **n8n**
-* 📫 Reach me at: **[hritikmondal2003@gmail.com](mailto:hritikmondal2003@gmail.com)**
-* 💬 Connect with me on **Discord** → https://discord.gg/MkYW8RKr6t
+- 🌱 I’m currently learning **Full Stack Development** and **Automation Tools**  
+- 📫 Reach me at: **hritikmondal2003@gmail.com**  
+- 💡 I enjoy solving problems and building helpful tools!  
+- 🏢 Co-founder & Developer at [Innovatech Web Works](https://innovatechwebworks.vercel.app/) — crafting modern, high-performance websites and digital solutions for businesses worldwide.  
+- 💬 Connect with me on **Discord** → [Join Here](https://discord.gg/MkYW8RKr6t)
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://n8n.io/" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40"/>
-</a>
-
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins" /></a>
 </p>
-
----
-
-### ⚙️ DevOps Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hritikmondal2003&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmondal2003&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hritikmondal2003&theme=tokyo-night"/>
-</p>
-
----
-
-## 🚀 Projects
-
-* 🌐 https://newyear2024.vercel.app/ – New Year Countdown
-* 💼 https://hritik-mondal-portfolio.vercel.app/ – Portfolio Website
-* 🏢 https://innovatechwebworks.vercel.app/ – Agency Website
-* 🌡 https://oibsip-temperature-converter.vercel.app/ – Temperature Converter
-* 🎯 https://oibsip-landing-page-rosy.vercel.app/ – Landing Page
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
-
-<a href="https://x.com/hritik_mondal_" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hritik-mondal-1ba297325/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/hritik_mondal_" target="_blank">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/7407116275" target="_blank">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/MkYW8RKr6t" target="_blank">
-<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+  <a href="https://x.com/hritik_mondal_" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hritik-mondal-1ba297325/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hritik_mondal_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/7407116275?text=Hi%20Hritik%2C%20I%20saw%20your%20portfolio%20and%20wanted%20to%20connect." target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/MkYW8RKr6t" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🚀 Projects
+
+- 🌐 [**New Year 2024 Countdown**](https://newyear2024.vercel.app/) – Festive countdown timer with animation 🎉  
+- 💼 [**Portfolio Website**](https://hritik-mondal-portfolio.vercel.app/) – Personal portfolio showcasing skills & projects 🌟  
+- 🏢 [**Innovatech Web Works**](https://innovatechwebworks.vercel.app/) – Agency website for digital solutions 💻  
+- 🌡 [**Temperature Converter**](https://oibsip-temperature-converter.vercel.app/) – Convert between Celsius, Fahrenheit & Kelvin 🌡  
+- 🎯 [**Landing Page (Rosy)**](https://oibsip-landing-page-rosy.vercel.app/) – A clean, responsive landing page design ✨  
+
+---
+
+### 📜 Favorite Quotes
+
+<p align="center" style="font-family: cursive; font-style: italic;">
+  𝒯𝓇𝓎𝒾𝓃𝑔 𝓉𝑜 𝒹𝑜 𝒷𝑒𝓉𝓉𝑒𝓇...<br>
+  "𝒯𝒽𝑒 𝑜𝓃𝓁𝓎 𝓌𝒶𝓎 𝓉𝑜 𝒹𝑜 𝑔𝓇𝑒𝒶𝓉 𝓌𝑜𝓇𝓀 𝒾𝓈 𝓉𝑜 𝓁𝑜𝓋𝑒 𝓌𝒽𝒶𝓉 𝓎𝑜𝓊 𝒹𝑜." – 𝒮𝓉𝑒𝓋𝑒 𝒥𝑜𝒷𝓈<br>
+</p>
+
+---
+
+### 🎯 Goals
+
+- Contribute to Open Source 🌍  
+- Build a personal project that helps others 💻  
 
 ---
 
