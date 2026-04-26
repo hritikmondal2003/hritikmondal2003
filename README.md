@@ -26,17 +26,17 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Development** and **Automation Tools**  
+- 🌱 Currently learning **Full Stack Development** and **Automation Tools**  
 - 📫 Reach me at: **hritikmondal2003@gmail.com**  
-- 💡 I enjoy solving problems and building helpful tools!  
-- 🏢 Co-founder & Developer at [Innovatech Web Works](https://innovatechwebworks.vercel.app/) — crafting modern, high-performance websites and digital solutions for businesses worldwide.  
+- 💡 I enjoy solving problems and building useful tools  
+- 🏢 Co-founder & Developer at [Innovatech Web Works](https://innovatechwebworks.vercel.app/) — building modern, high-performance websites and digital solutions  
 - 💬 Connect with me on **Discord** → [Join Here](https://discord.gg/MkYW8RKr6t)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /></a>
@@ -54,11 +54,11 @@
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://x.com/hritik_mondal_" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hritik-mondal-1ba297325/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -78,27 +78,27 @@
 
 ## 🚀 Projects
 
-- 🌐 [**New Year 2024 Countdown**](https://newyear2024.vercel.app/) – Festive countdown timer with animation 🎉  
-- 💼 [**Portfolio Website**](https://hritik-mondal-portfolio.vercel.app/) – Personal portfolio showcasing skills & projects 🌟  
+- 🌐 [**New Year 2024 Countdown**](https://newyear2024.vercel.app/) – Animated festive countdown 🎉  
+- 💼 [**Portfolio Website**](https://hritik-mondal-portfolio.vercel.app/) – Showcasing my skills and projects 🌟  
 - 🏢 [**Innovatech Web Works**](https://innovatechwebworks.vercel.app/) – Agency website for digital solutions 💻  
-- 🌡 [**Temperature Converter**](https://oibsip-temperature-converter.vercel.app/) – Convert between Celsius, Fahrenheit & Kelvin 🌡  
-- 🎯 [**Landing Page (Rosy)**](https://oibsip-landing-page-rosy.vercel.app/) – A clean, responsive landing page design ✨  
+- 🌡 [**Temperature Converter**](https://oibsip-temperature-converter.vercel.app/) – Convert between Celsius, Fahrenheit, and Kelvin  
+- 🎯 [**Landing Page (Rosy)**](https://oibsip-landing-page-rosy.vercel.app/) – Clean and responsive landing page ✨  
 
 ---
 
-### 📜 Favorite Quotes
+## 📜 Favorite Quote
 
 <p align="center" style="font-family: cursive; font-style: italic;">
-  𝒯𝓇𝓎𝒾𝓃𝑔 𝓉𝑜 𝒹𝑜 𝒷𝑒𝓉𝓉𝑒𝓇...<br>
-  "𝒯𝒽𝑒 𝑜𝓃𝓁𝓎 𝓌𝒶𝓎 𝓉𝑜 𝒹𝑜 𝑔𝓇𝑒𝒶𝓉 𝓌𝑜𝓇𝓀 𝒾𝓈 𝓉𝑜 𝓁𝑜𝓋𝑒 𝓌𝒽𝒶𝓉 𝓎𝑜𝓊 𝒹𝑜." – 𝒮𝓉𝑒𝓋𝑒 𝒥𝑜𝒷𝓈<br>
+  Trying to do better...<br>
+  "The only way to do great work is to love what you do." – Steve Jobs
 </p>
 
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 
 - Contribute to Open Source 🌍  
-- Build a personal project that helps others 💻  
+- Build impactful projects that help people 💻  
 
 ---
 
