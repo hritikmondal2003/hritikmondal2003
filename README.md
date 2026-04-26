@@ -43,7 +43,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /></a>
@@ -65,7 +65,7 @@
   <a href="https://instagram.com/hritik_mondal_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/7407116275?text=Hi%20Hritik%2C%20I%20came%20across%20your%20portfolio" target="_blank">
+  <a href="https://wa.me/7407116275?text=Hi%20Hritik%2C%20I%20came%20across%20your%20profile" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://discord.gg/MkYW8RKr6t" target="_blank">
@@ -80,7 +80,7 @@
 - 🌐 [New Year 2024 Countdown](https://newyear2024.vercel.app/) — Animated countdown experience  
 - 💼 [Portfolio Website](https://hritik-mondal-portfolio.vercel.app/) — Showcases my work and skills  
 - 🏢 [Innovatech Web Works](https://innovatechwebworks.vercel.app/) — Digital solutions and web services  
-- 🌡 [Temperature Converter](https://oibsip-temperature-converter.vercel.app/) — Convert temperature units easily  
+- 🌡 [Temperature Converter](https://oibsip-temperature-converter.vercel.app/) — Convert temperature units  
 - 🎯 [Landing Page (Rosy)](https://oibsip-landing-page-rosy.vercel.app/) — Clean and responsive design  
 
 ---
