@@ -8,10 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hritikmondal2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
 <br>
 
 ## 🔥 Most Used Tools & Platforms
@@ -102,5 +98,9 @@
 - Build projects that solve real problems  
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hritikmondal2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 <p align="center">Made with ❤️ by Hritik Mondal</p>
